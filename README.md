@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and data science**
 
-- 💬 Ask me about **React js , Node js ,Expresse**
+  
 
 - 📫 How to reach me **kb_hamroune@esi.dz**
 
